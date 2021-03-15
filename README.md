@@ -1,3 +1,3 @@
 # Base-Datos
 
-No se que pei
+Repo para las tareas de base de datos
